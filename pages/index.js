@@ -8,7 +8,7 @@ export default function Home() {
           I am{" "}
           <span>
             <Typewriter
-              words={["a Frontend", "a Backend", "an UI", "a Photographer"]}
+              words={["a Frontend", "a Backend", "an UI", "a Photographer", "UI/UX"]}
               loop={true}
               cursor
               cursorStyle="_"
